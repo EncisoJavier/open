@@ -1,0 +1,1 @@
+En la rama master se encuentra el desarrollo de un login de registro simple con algunas validaciones en PHP y que imprime los datos ingresados mas un token aleaotorio cumpliendo ciertas reglas como: vocales del nombre + primera letra del apellido + ultima letra del apellido + 3 numeros aleotrios entre 000-999
